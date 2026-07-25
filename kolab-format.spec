@@ -5,7 +5,7 @@
 
 Name:          kolab-format
 Version:       1.0.1
-Release:       %mkrel 1
+Release:       2
 Summary:       A package for reading/writing Kolab data formats
 License:       LGPL
 Group:         Networking/Mail
